@@ -1,5 +1,4 @@
-### Hi there 👋
-# I'm Magna Moz
+### Hi there, I'm Magna 👋
 
 ## ADS Student 🎓
 ## Intern at GFT Group :rocket:
