@@ -1,16 +1,25 @@
 ### Hi there 👋
+# I'm Magna Moz
 
-<!--
-**magnamoz/magnamoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ADS Student 🎓
+## Intern at GFT Group :rocket:
 
-Here are some ideas to get you started:
+💜 Really  love to learn <br>
+💬 Graduated in Psychology <br>
+📚 Currently studying Java <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Tools-Spring-informational?style=flat&logo=spring&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+
+📫 How to reach me: <br>
+[![Badge](https://img.shields.io/badge/-LinkedIn-%237159c1?style=flat&logo=linkedin)](https://www.linkedin.com/in/magna-moz/)
+[![Badge](https://img.shields.io/badge/-Email-%237159c1?style=flat&logo=gmail)](mailto:magnamoz@gmail.com)
+
+
