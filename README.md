@@ -5,7 +5,7 @@
 
 💜 Really  love to learn <br>
 💬 Graduated in Psychology <br>
-📚 Currently studying Java <br>
+📚 Currently studying React, TS <br>
 
 
 ### 🔧 Technologies & Tools
