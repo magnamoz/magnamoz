@@ -1,7 +1,7 @@
 ## Hi there, I'm Magna 👋
 
 #### ADS Student 🎓
-#### Intern at GFT Group :rocket:
+####  Front-End Developer Jr at GFT Group :rocket:
 
 💜 Really  love to learn <br>
 💬 Graduated in Psychology <br>
