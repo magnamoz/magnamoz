@@ -1,6 +1,5 @@
 ## Hi there, I'm Magna 👋
 
-#### ADS Student 🎓
 ####  Front-End Developer Jr at GFT Group :rocket:
 
 💜 Really  love to learn <br>
